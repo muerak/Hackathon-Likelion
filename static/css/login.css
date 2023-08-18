@@ -93,6 +93,7 @@ body {
 
 .error {
  margin-bottom: 10px;
+ color: red;
 }
 
 @media (max-width: 768px) {
